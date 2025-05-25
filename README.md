@@ -14,7 +14,7 @@ TBD
 
 # Структура Связанного SWOT-анализа
 
-<img width="1169" alt="image" src="https://github.com/user-attachments/assets/21a36f7e-6a2e-4a6a-bc04-5a5445dac431" />
+<img width="939" alt="image" src="https://github.com/user-attachments/assets/c374853f-7bc2-482c-a7cc-fc01a8ff95eb" />
 
 Шаблон находится по ссылке https://app.holst.so/board/6d59cb73-35a5-4527-9d94-00781e542d40
 
@@ -45,6 +45,14 @@ TBD
 ## Приоритизация
 
 ## Цветовая схема
+
+<img width="662" alt="image" src="https://github.com/user-attachments/assets/608dfb7e-e256-41b1-9660-09b142e12114" />
+
+Рекомендуется использовать единую цветовую схему для связанного SWOT-анализа:
+1. Слабые стороны: #93d275
+2. Сильные стороны: #f0939d
+3. Тренды: #9ea9ff
+4. Угрозы: #ff9d48
 
 # Процесс работы
 TBD
