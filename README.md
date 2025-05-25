@@ -1,6 +1,6 @@
 # База знаний о Связанном SWOT-анализе
 
-<img width="526" alt="image" src="https://github.com/user-attachments/assets/c050da53-1c03-4b3e-bec2-25c1ebb4188f" />
+<img width="697" alt="image" src="https://github.com/user-attachments/assets/2e15a51e-0752-4e87-b8de-52564108791b" />
 
 Связанный SWOT-анализ – это метод анализа, который усовершенствует классический SWOT-анализ, а также обеспечивает связку анализа дальнейшим созданием стратегии через [Карту гипотез](https://github.com/Byndyusoft/hypothesismapping).
 
