@@ -138,10 +138,10 @@
 
 <img width="596" alt="image" src="https://github.com/user-attachments/assets/ac9761f5-e51e-42ca-b146-968e1c619e4c" />
 
-
 ## Приоритизация
+Карточки в каждой рабочей области приоритизированы по одному принципу: чем выше карточка, тем выше у нее приоритет.
 
-## Связки с Картой гипотез
+<img width="717" alt="image" src="https://github.com/user-attachments/assets/ac5fb349-67ff-46cd-82b8-258e7df27602" />
 
 ## Цветовая схема
 
