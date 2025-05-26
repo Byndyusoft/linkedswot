@@ -30,7 +30,7 @@
 
 # Структура Связанного SWOT-анализа
 
-<img width="1040" alt="image" src="https://github.com/user-attachments/assets/cd7e0e3a-e942-4710-bd7c-e4da8c4b9543" />
+<img width="1058" alt="image" src="https://github.com/user-attachments/assets/4b012f6f-1081-45f7-af38-5d234bc4ec7f" />
 
 Шаблон находится по ссылке https://app.holst.so/board/6d59cb73-35a5-4527-9d94-00781e542d40
 
