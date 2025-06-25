@@ -2,7 +2,7 @@
 
 <img width="238" alt="Logo связанный SWOT (светлый фон)" src="https://github.com/user-attachments/assets/1d55573f-144c-4de8-ba1a-e62acb9f73b5" />
 
-Связанный SWOT-анализ – это метод анализа, который усовершенствует классический SWOT-анализ, а также обеспечивает связку анализа дальнейшим созданием стратегии через [Карту гипотез](https://github.com/Byndyusoft/hypothesismapping).
+Связанный SWOT-анализ – это метод анализа, который усовершенствует классический SWOT-анализ, а также обеспечивает связку анализа с дальнейшим созданием стратегии через [Карту гипотез](https://github.com/Byndyusoft/hypothesismapping).
 
 Синонимы:
 * Linked SWOT analysis
