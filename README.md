@@ -28,7 +28,7 @@
 
 # Структура Связанного SWOT-анализа
 
-<img width="1122" alt="image" src="https://github.com/user-attachments/assets/6f1fc5f5-9150-4078-93de-d286ebdd6bfd" />
+<img width="999" height="668" alt="image" src="https://github.com/user-attachments/assets/170384d7-3819-459e-a853-5e3fbe78d9b3" />
 
 Шаблон находится по ссылке https://app.holst.so/board/6d59cb73-35a5-4527-9d94-00781e542d40
 
